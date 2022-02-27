@@ -1,0 +1,637 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alphabet of elegiack groans, upon the truly lamented death of that rare exemplar of youthful piety, John Fortescue, of the Inner-Temple, esquire / By E.E.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84403</idno>
+            <idno type="STC">Wing E658</idno>
+            <idno type="STC">Thomason E885_2</idno>
+            <idno type="STC">ESTC R207316</idno>
+            <idno type="EEBO-CITATION">99866373</idno>
+            <idno type="PROQUEST">99866373</idno>
+            <idno type="VID">168395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168395)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E885[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alphabet of elegiack groans, upon the truly lamented death of that rare exemplar of youthful piety, John Fortescue, of the Inner-Temple, esquire / By E.E.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Heath, in Russel-street near the Piazza's of Covent-Garden.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654 [i.e. 1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.E. = Edmund Elys. Cf. Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "August 6"; the 4 in imprint date has been altered to 6.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fortescue, John, --  Sir, 1592-1656 --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168395:1" rendition="simple:additions"/>
+            <p>AN ALPHABET OF Elegiack Groans, UPON The truly lamented Death of that Rare Exemplar of Youthful Piety, <hi>JOHN FORTESC<g ref="char:V">Ʋ</g>E,</hi> Of the <hi>Inner-Temple,</hi> Eſquire.</p>
+            <p>By <hi>E. E.</hi>
+            </p>
+            <p>
+               <hi>Chronogram.</hi>
+            </p>
+            <p>DIes MortIs CharIor eſt nataLe.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Heath,</hi> in <hi>Ruſſel-ſtreet</hi> near the <hi>Piazza's</hi> of <hi>Covent-Garden.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168395:2"/>
+            <pb n="1" facs="tcp:168395:2"/>
+            <head>AN ALPHABET OF Elegiack Groans.</head>
+            <div n="1" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> I.</head>
+               <l>
+                  <seg rend="decorInit">A</seg>Las! why ſigh I thus? why do mine eyes</l>
+               <l>Bubble up ſorrow at theſe obſequies?</l>
+               <l>Such outward ſymptomes of my grief are ſmal,</l>
+               <l>My ſoul weeps inward at his Funeral.</l>
+               <l>That Anguiſh lurks in ſecret, whoſe dread ſmart</l>
+               <l>Wrought into th' Bottom, undermines the Heart.</l>
+               <l>Tears then adieu: only heart-blood can be</l>
+               <l>Convenient drops for ſuch an Elegie.</l>
+               <l>I've loſt Half of my Soul! Strange Fates that give</l>
+               <l>To one thus ſpirit-wounded power to live!</l>
+               <l>My <hi>OTHER I</hi> is dead! Could <hi>Atrop</hi> ſever</l>
+               <l>Two thus made one, ſo jointly knit together,</l>
+               <l>Unleſs by cutting both? Oh no! his Death</l>
+               <l>Hath wraſtled out my Life, though not my Breath.</l>
+               <l>But what, ſhall I confine to mine own Breſt</l>
+               <l>This common grief, of which the World s poſſeſt?</l>
+               <l>
+                  <pb n="2" facs="tcp:168395:3"/>A ſpringing Cedar's faln, ſo fair, ſo tall,</l>
+               <l>That all our Hearts are earthquak'd at his Fall:</l>
+               <l>Which was ſo ſtrangely ſudden, as his Riſe</l>
+               <l>To ſuch Perfections was; it doth ſurpriſe</l>
+               <l>Us with Amazement, that our Faces be</l>
+               <l>Badg'd with that Mark of Grief, Stupiditie.</l>
+               <l>'Twould ſeem to eaſe our ſorrows, could we raiſe</l>
+               <l>Our words ſo high as to compleat his Praiſe.</l>
+               <l>But this we cannot do, unleſs we could</l>
+               <l>Form our rough Brains in ſo exact a mould,</l>
+               <l>As that from them might flow in Teary ſhoures</l>
+               <l>So many Volumes as He lived houres.</l>
+               <l>Yet this we muſt confeſs; his Parts ſo rife</l>
+               <l>Made him far fitter for his death, than life.</l>
+               <l>Earth ſcarcely knew them; for, like Stars, they were</l>
+               <l>Leſs in her eye, 'cauſe unto Heav'n more neere.</l>
+               <l>He was God's Hidden Treaſure; no Mans eye</l>
+               <l>View'd all thoſe Riches which in's ſoul did lie.</l>
+               <l>God now has tane him to his proper place;</l>
+               <l>But wreſting out the Gem, He th broke the Caſe:</l>
+               <l>Yet 'twill be made agen by ſacred Art</l>
+               <l>The fit Encloſure of his better Part.</l>
+               <l>Why then lament we at his Funerall?</l>
+               <l>Ah! though he fell not, yet he ſeems to fall:</l>
+               <l>Juſt like a Star that's darted through the sky,</l>
+               <l>Which ſeems to fall, becauſe it ſhuns our eye.</l>
+               <l>But, that our Eyes have loſt their deareſt ſight,</l>
+               <l>May Tears conveigh them to the ſhades of Night.</l>
+               <l>My ſoul oreflows with grief; ſo full's my Thought,</l>
+               <l>That, like a Bubble, it is ſwolne to nought:</l>
+               <l>I'm grown ſo ſtupid, that by ſilence I</l>
+               <l>Can only ſpeak ſo vaſt Calamity.</l>
+            </div>
+            <div n="2" type="elegy">
+               <pb n="3" facs="tcp:168395:3"/>
+               <head>
+                  <hi>ELEG.</hi> II.</head>
+               <l>BE not my Lines Poetick: let them Faign,</l>
+               <l>That carry ſorrow not in Heart, but Brain.</l>
+               <l>My waters of Affliction or'eflow</l>
+               <l>The Banks of <hi>Helicon:</hi> I cannot ſhow</l>
+               <l>My ſolid grief in Verſe; no Muſes wing</l>
+               <l>Can bear the weight of my ſoul-ſuffering.</l>
+               <l>Sad groans and ſighs are here articulate;</l>
+               <l>Theſe, only theſe can ſignifie ſuch Fate:</l>
+               <l>For, when the Siſters Three ſo throw their Darts,</l>
+               <l>They fill each corner of our trembling Hearts</l>
+               <l>With helpleſs anguiſh; that there be no room</l>
+               <l>To hatch ſuch words as may ſet forth our Doom.</l>
+               <l>What then, what ſhall we do? Grief ſtreitly pent</l>
+               <l>Swells up the bigger: Pufft Hearts break, or vent.</l>
+               <l>Shall Fates, like Cutters, which mens Fortunes drain,</l>
+               <l>Thus ſtop our mouths, that we ſhould not complain?</l>
+               <l>Ah! though our Tongues be ty'd, yet ſhall our Eyes</l>
+               <l>Drop down Expreſsion of our Miſeries.</l>
+            </div>
+            <div n="3" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> III.</head>
+               <l>COme on Eye-flouds apace: 'tis eaſe to weep:</l>
+               <l>Thoſe wounds need waſhing which are ſtruck ſo deep;</l>
+               <l>Leaſt that they putrifie: men in diſtreſs</l>
+               <l>Made blinde with tears do ſee their grief the leſs.</l>
+               <l>O doleful Tragedies, which mortals finde</l>
+               <l>Shut up within the cloſet of their minde!</l>
+               <l>Where Appetite with Will is diſcontent,</l>
+               <l>The one would not, the other muſt lament.</l>
+               <l>
+                  <pb n="4" facs="tcp:168395:4"/>So they diſtractions raiſe within our Breſt,</l>
+               <l>And we our ſelves give to our ſelves no Reſt.</l>
+               <l>We joy, and mourn, and mourn, and joy again,</l>
+               <l>Now there is Sun-ſhine, then Tempeſtuous Rain;</l>
+               <l>We joy that he's in Heav'n, agen we mourn</l>
+               <l>And wiſh our ſelves compoſed in his Urn.</l>
+               <l>Thus are our Thoughts revolv'd, as tho there were</l>
+               <l>No fixed Object which might ſtay them, here</l>
+               <l>Now He is gone, who was that Riſing Sun</l>
+               <l>Which did attract each Exhalation</l>
+               <l>Of our endeared Hearts, like <hi>Phaebe,</hi> He</l>
+               <l>Seems to theſe eyes of Fleſh ecclips'd to be:</l>
+               <l>'Cauſe our inferior ſight of Him's bereaven</l>
+               <l>By interpoſed Earth 'twixt us and Heaven;</l>
+               <l>Where now He's firmly ſeated, and ſhall be</l>
+               <l>A Son of Light to all Eternitie.</l>
+            </div>
+            <div n="4" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> IV.</head>
+               <l>DEad! oh! and were mine Ears then made to be</l>
+               <l>A Labyrinth t'incloſe mine Agonie;</l>
+               <l>Which through their winding caverns let in pain</l>
+               <l>Into my ſoul, ne're to go out again?</l>
+               <l>Farewell (if He be dead) farewell our joyes</l>
+               <l>On ſordid Earth; farewell thoſe charming toyes</l>
+               <l>The world affords: And it ſhall henceforth be</l>
+               <l>Our Life to think upon Mortalitie.</l>
+               <l>Bleſt Saint that art at reſt, now flown above</l>
+               <l>The reach of Fate, by th'wings o' th' Heav'nly Dove.</l>
+               <l>Pardon, oh pardon, if our teary eyes</l>
+               <l>Bemoan not thine, but our own Obſequies,</l>
+               <pb n="5" facs="tcp:168395:4"/>
+               <l>Who daily die; and (which ſtill makes us grieve)</l>
+               <l>There's nothing in us, but our Deaths, doth live.</l>
+               <l>Thy Death is dead, not thou: O may we then</l>
+               <l>Once die like thee, that we ne're die agen.</l>
+            </div>
+            <div n="5" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> V.</head>
+               <l>EMbleme of Vertue, from whoſe Noble eye</l>
+               <l>Heroick Height mixt with Humilitie</l>
+               <l>Shone forth a peerleſs Paradox; whoſe ſoul</l>
+               <l>Divinely big ſwells out of that weak ſcroul</l>
+               <l>Which it involv'd: So us our griefs compell,</l>
+               <l>That ſince thou went'ſt to Heav'n, Earth ſeems our Hell;</l>
+               <l>And this is our due portion: for 'tis juſt</l>
+               <l>That we ſhould faulter with theſe Clogs of Duſt,</l>
+               <l>Until Gods love, the true <hi>Prometheus</hi> Fire,</l>
+               <l>Our Earthen Hearts ſhall bleſſedly inſpire,</l>
+               <l>By whoſe aſcendent vertue we may be</l>
+               <l>(Like Thee) rais'd up to Immortalitie.</l>
+            </div>
+            <div n="6" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> VI.</head>
+               <l>FAith is ſo weak it cannot ſee</l>
+               <l>His Joyes; or our perplexitie:</l>
+               <l>Oh! we have drunk in ſo much Gall,</l>
+               <l>That now we have no Taſte at all.</l>
+               <l>Black Sorrows wrapt up in a Miſt,</l>
+               <l>May whiffle us now where they liſt,</l>
+               <l>And (like Hob-goblins) they conſpire</l>
+               <l>To lead our thoughts into the Mire</l>
+               <l>
+                  <pb n="6" facs="tcp:168395:5"/>Of ſtupid anguiſh, where we finde</l>
+               <l>Nought elſe, but that w'have loſt our Mind.</l>
+               <l>But ah, what Friendſhip is in this;</l>
+               <l>That we do ſo deplore his bliſs?</l>
+               <l>O tell us not of that: our Tears</l>
+               <l>Have (like their cauſe, his Death) no Ears.</l>
+            </div>
+            <div n="7" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> VII.</head>
+               <l>GReat in true Goodneſs! Rich in Mind</l>
+               <l>As well's in Lands, and Birth! we find</l>
+               <l>No Epithite fit to ſet forth</l>
+               <l>The full Encomium of his worth.</l>
+               <l>His Youth was Ag'd with Piety,</l>
+               <l>Which ſeem'd of ſuch antiquity,</l>
+               <l>That whoſoever knew it, would</l>
+               <l>Conceit Him in his Nonage Old.</l>
+               <l>Er'e He could look abroad to ſee</l>
+               <l>The Worlds enticing Vanitie,</l>
+               <l>God fixt His Eyes on things above,</l>
+               <l>Which ſtraight way took his chiefeſt love:</l>
+               <l>And ſo on Earth of Earth bereaven,</l>
+               <l>He hovered 'twixt it, and Heaven.</l>
+               <l>Fond Ranters ſhallow Gallantry</l>
+               <l>He rightly judg'd meer ſlavery</l>
+               <l>To Tyrant Sin. Streight-living He</l>
+               <l>Enlarg'd his Soul to Sanctitie.</l>
+               <l>Each day he thought upon his laſt,</l>
+               <l>And now at length in haſt He paſt</l>
+               <l>Out of this World; indeed, as tho</l>
+               <l>He would not tell us that hee'ld go</l>
+               <pb n="7" facs="tcp:168395:5"/>
+               <l>So quickly from us, leſt our Eyes</l>
+               <l>Should ſhew His Joyes our Miſeries,</l>
+               <l>And ſo diſturb his pious Breaſt,</l>
+               <l>Rejoycing at approaching Reſt.</l>
+               <l>He fitly went to Bed ſo ſoon,</l>
+               <l>Whoſe very morning was High-noon.</l>
+            </div>
+            <div n="8" type="elegy">
+               <head>ELEG. VIII.</head>
+               <l>HEre let us ſtay our mournfull looks, and ſee</l>
+               <l>Deaths ſums caſt up in an Epitome:</l>
+               <l>For All our Lives are loſt in Him: we have</l>
+               <l>(Strange Fate!) our Souls entombed in his Grave;</l>
+               <l>Nay, 'tis not ſo, but thus: our Hearts ſtruck dead</l>
+               <l>In our (yet walking) Corps lie Buried.</l>
+            </div>
+            <div n="9" type="elegy">
+               <head>ELEG. IX.</head>
+               <lg>
+                  <l>
+                     <hi>I</hi>-nricht with Poverty of Spirit,</l>
+                  <l>
+                     <hi>O</hi>-n nothing leſs then His own Merit</l>
+                  <l>
+                     <hi>H</hi>-e ſet his Thoughts: His Soul ſo bright</l>
+                  <l>
+                     <hi>N</hi>-ere view'd its own Celeſtiall light.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>F</hi>-ame He abhor'd; whoſe feeble wings</l>
+                  <l>
+                     <hi>O</hi>-ft whirleth up the lighteſt things,</l>
+                  <l>
+                     <hi>R</hi>-are Vertues, as were his, do flye</l>
+                  <l>
+                     <hi>T</hi>-oo lofty for the Worlds ſquint Eye.</l>
+                  <l>
+                     <hi>E</hi>-ach Gem of His rich Mind did even</l>
+                  <l>
+                     <hi>S</hi>-end up its Sparks as high as Heaven:</l>
+                  <l>
+                     <hi>C</hi>-hriſt (ſeeing it Divinely good)</l>
+                  <l>
+                     <hi>U</hi>-nſtrips His Soul of Fleſh, and Blood:</l>
+               </lg>
+               <lg>
+                  <l>Thoſe tireſome Rags: even ſo away was hurld</l>
+                  <l>
+                     <hi>Elia's</hi> Mantle, when he left the World.</l>
+               </lg>
+            </div>
+            <div n="10" type="elegy">
+               <pb n="8" facs="tcp:168395:6"/>
+               <head>
+                  <hi>ELEG.</hi> X.</head>
+               <l>KNow, know we not that Death is gain</l>
+               <l>To ſuch as liv'd like Him? complain</l>
+               <l>We then for nought? why ſhould our Eye</l>
+               <l>Set forth ſo vain Hydrography,</l>
+               <l>Wherein deſcrib'd we ſeem to ſee</l>
+               <l>Whole Floods of Sorrow, though there be</l>
+               <l>No reaſon for't? are we bedight</l>
+               <l>With Black for Him, on whom The Light</l>
+               <l>Of men ſo ſhines? are we Diſtreſt;</l>
+               <l>Perplext, Unquiet at His Reſt?</l>
+               <l>Lets not betear our Eyes, unleſſe it be</l>
+               <l>For want o'th' ſight of His Felicitie.</l>
+            </div>
+            <div n="11" type="elegy">
+               <head>ELEG XI.</head>
+               <l>LO, how our Grief rebounds, it rages worſe</l>
+               <l>When we endeavour to reſtrain its force.</l>
+               <l>The Flood gates of our Eyes ſet ope, the ſpout</l>
+               <l>Of Tears ſtopt in, will guſh the faſter out.</l>
+               <l>Come; ſith neceſſity will have it ſo,</l>
+               <l>Let what gave th'cauſe, give end unto our wo;</l>
+               <l>And let's be plung'd in ſadneſſe till we find</l>
+               <l>That w'have or'ethrown its reſting place our Mind:</l>
+               <l>Yea ſo let this diſtract our Thoughts, that they</l>
+               <l>Ner'e find contentment in theſe Vaults of Clay.</l>
+            </div>
+            <div n="12" type="elegy">
+               <head>ELEG. XII</head>
+               <l>MIght we not think 'twould come to This, that he</l>
+               <l>Spent all his time upon Eternitie,</l>
+               <l>
+                  <pb n="9" facs="tcp:168395:6"/>As if he came into the world t'obtain</l>
+               <l>An happy paſſage to get out again?</l>
+               <l>Ah, how could we expect His longer ſtay,</l>
+               <l>When we perceiv'd him to make haſt away.</l>
+               <l>Full fraught with Grace, unto the joyfull Port</l>
+               <l>Of Bliſs, unto the King of Kings great Court?</l>
+               <l>Where He's in Glory, here in Fame: and thus</l>
+               <l>His wiſhed Death makes him Amphibious.</l>
+            </div>
+            <div n="13" type="elegy">
+               <head>ELEG. XIII.</head>
+               <l>NO more be Fates call'd Black, ſith through them He</l>
+               <l>Has gotten his white cope, and liberty</l>
+               <l>From all that Dungeon-darkneſs which w'are in</l>
+               <l>Whiles hudled up within theſe Clouds of ſin.</l>
+               <l>The Thread of's Life regain'd he now doth ſee</l>
+               <l>Stretcht through the Ones of all Eternitie.</l>
+               <l>Thus Atrop juggleth ſtill with Pious Men,</l>
+               <l>And cuts their THREAD to make it whole agen.</l>
+            </div>
+            <div n="14" type="elegy">
+               <head>ELEG. XIV.</head>
+               <l>O That ſome Seraphim His praiſe would ſing,</l>
+               <l>Or lend a Quill pluckt from his heavenly wing,</l>
+               <l>Whereby it might be writ for't does decline</l>
+               <l>His Commendation that is not Divine.</l>
+               <l>Young Muſes are unskil'd in ſuch grave Theams,</l>
+               <l>And hardly can acquire the Sov'raign ſtreams</l>
+               <l>O'th Well of Life, for Helicon, as ſhould</l>
+               <l>Thoſe that would caſt their Verſe in ſuch a Mould,</l>
+               <l>
+                  <pb n="10" facs="tcp:168395:7"/>That it might form his Praiſe. That muſt not be</l>
+               <l>Verſe Rampant which ſets forth Humility.</l>
+               <l>Pens lightly praiſing Piety miſtake,</l>
+               <l>And, like bad Penſils, blot the work they make.</l>
+               <l>Great Ornaments not ſuited well, deface,</l>
+               <l>And oft Encomiums miſ-expreſt, diſgrace.</l>
+               <l>He that would ſhevv His ſacred Worth, muſt be.</l>
+               <l>A Limner of Incarnate Sanctitie,</l>
+               <l>Which if Men knew both it &amp; Him, would ſure</l>
+               <l>Be thought His fit and only <hi>Portraicture.</hi>
+               </l>
+            </div>
+            <div n="15" type="elegy">
+               <head>ELEG. XV.</head>
+               <l>PUmpt Helicon runs muddy; and that ſtrain</l>
+               <l>Muſt needs be jarring, that's wrung out'oth' brain</l>
+               <l>Diſtracted with true ſorrows, vvhich combin'd,</l>
+               <l>Root out all Concord 'oth' afflicted Mind.</l>
+               <l>Such Lines as ſhould vvear Mourning, may not be</l>
+               <l>Dreſt all-a-mode i'th' garb of Poetry.</l>
+               <l>Verſe prickt vvith grief goes lame. There ner'e appears</l>
+               <l>A Phoebus 'mongſt ſo many Showres of Tears.</l>
+               <l>But yet vvee'l vvrite, tho vveakly; ſome may call</l>
+               <l>Perhaps our Faults here artificiall:</l>
+               <l>Men ſtutter moſt at greateſt things: 'tis fit</l>
+               <l>At ſuch bright Theams to ſhut the Eyes o'th' Wit:</l>
+               <l>That vvhiles (our paſſage ſtopt) vv'are at a ſtay</l>
+               <l>We may make known the hardneſſe of the vvay.</l>
+            </div>
+            <div n="16" type="elegy">
+               <pb n="11" facs="tcp:168395:7"/>
+               <head>ELEG. XVI.</head>
+               <l>QUake Ranter-Gallants, and deſpair to bee</l>
+               <l>Exempt from Deaths untimely ſtroke, ſith he</l>
+               <l>Is faln ſo ſoon, untainted with a Glance</l>
+               <l>Sparkling from Luſt, or vain Intemperance;</l>
+               <l>Which haſten on your Fate, whoſe ev'ry Eye,</l>
+               <l>As well as Mouth 's enſlav d to Gluttony.</l>
+               <l>You live ſo looſly, that your Lives may be</l>
+               <l>Slipt from you by the rrue Mortalitie.</l>
+               <l>Then through His Death caſt thoughts upon your ovvn,</l>
+               <l>And ſo His Life ſhall in your lives be ſhown.</l>
+            </div>
+            <div n="17" type="elegy">
+               <head>ELEG. XVII.</head>
+               <l>RAge Tyrant Death: whatever thou canſt do,</l>
+               <l>Is but to force Him to o'recome thee too,</l>
+               <l>As well as this vain World: thou ſtrik'ſt, but He</l>
+               <l>Repells thy blow, and gains the victory.</l>
+               <l>He could not put thee to this ſhamefull flight,</l>
+               <l>Untill that thou hadſt firſt began the Fight.</l>
+               <l>Thou ſtrip'ſt him of His robes; 'tis true, but He</l>
+               <l>Now wears theſe Trophies that He won from thee.</l>
+            </div>
+            <div n="18" type="elegy">
+               <head>ELEG. XVIII.</head>
+               <l>
+                  <hi>SOon ripe, ſoon rotten?</hi> falſe! that Bud which ſprings</l>
+               <l>So ſoon in Grace, ſhall by the King of Kings</l>
+               <l>(Prun'd by his ſervant Deaths all-cutting knife)</l>
+               <l>Ingraffed be into the Tree of Life.</l>
+               <l>
+                  <pb n="12" facs="tcp:168395:8"/>Rotten? Oh no: our ſoon-ripe Saint puts on</l>
+               <l>A Life that ne're ſhall ſee Corruption.</l>
+               <l>'Twas time for Him to leave the world, for even</l>
+               <l>Here upon Earth His ſoul was fixt on Heaven.</l>
+            </div>
+            <div n="19" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> XIX.</head>
+               <l>TEll us no more of Lands, and Wealth: we ſee</l>
+               <l>They are nought elſe but winged vanity;</l>
+               <l>They flye from us, or we from them: but they</l>
+               <l>Who from the Treaſure of Gods Word convey</l>
+               <l>True wealth into their ſacred ſouls, ſhall be</l>
+               <l>Alive in death, and rich in Povertie.</l>
+               <l>Hence 'twas renowned, peerleſs Saint, that thou</l>
+               <l>Wouldſt ſcarce look down upon theſe things below,</l>
+               <l>But, ſhutting thine exterior Eye, didſt finde</l>
+               <l>The ſure ſight i'th' eye of thy cleer Minde.</l>
+            </div>
+            <div n="20" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> XX.</head>
+               <l>VNruly paſſions! ſhall we ſtill</l>
+               <l>Go mourning thus againſt our will?</l>
+               <l>We know 'tis vain to grieve; again</l>
+               <l>Our knowing this is all in vain.</l>
+               <l>W'are ſo entrapt i'th' Fates dire gin,</l>
+               <l>That ſtrugling claſps us faſter in</l>
+               <l>Our hearts with ſorrow frozen, thaw</l>
+               <l>At the Sun-beams of Reaſon's Law:</l>
+               <l>And ſo the Knowledge that our Plaints are vain,</l>
+               <l>Sith it can't help, makes us the more complain.</l>
+            </div>
+            <div n="21" type="elegy">
+               <pb n="13" facs="tcp:168395:8"/>
+               <head>
+                  <hi>ELEG.</hi> XXI.</head>
+               <l>WE on this ſubject can't be dry,</l>
+               <l>Whiles Helicon flows in our Eye</l>
+               <l>Our heart's the pumpe of ſorrow: ſo</l>
+               <l>It's full ſtill of ſucceſſive woe,</l>
+               <l>That, when it is exhauſt by th' Pen,</l>
+               <l>There ſprings up new, to fill 't agen.</l>
+               <l>Our lighter Thoughts may make us weep;</l>
+               <l>Some in our ſouls are ſunk So deep,</l>
+               <l>That they can't be fetcht up by Art,</l>
+               <l>Unleſs the Tripod of our Heart</l>
+               <l>Should be made viſible, from whence</l>
+               <l>
+                  <hi>Phaebus</hi> might ſpend his Eloquence.</l>
+               <l>But now, alas, ſith that we finde</l>
+               <l>No Embleme to ſet forth our Minde,</l>
+               <l>How ſhall we ſhew our griefs, which are</l>
+               <l>Too weighty to be born i'th' Aire,</l>
+               <l>Or eke tranſported by a Quill</l>
+               <l>To publike view? Go too: we will</l>
+               <l>Add this grief more unto the reſt,</l>
+               <l>That our vaſt Griefs can't be expreſt.</l>
+            </div>
+            <div n="22" type="elegy">
+               <head>
+                  <hi>ELEG.</hi> XXII.</head>
+               <lg>
+                  <l>YOung Saint Farewel! My work is done,</l>
+                  <l>Although it want perfection:</l>
+                  <l>But, when we ſpeak unfaigned grief</l>
+                  <l>The largeſt Rhet'rick's to be brief.</l>
+                  <l>
+                     <pb n="14" facs="tcp:168395:9"/>He that doth thus himſelf bemoan,</l>
+                  <l>Can't make an artificial Groan.</l>
+                  <l>His ſhatter'd words he will ſo ſtate</l>
+                  <l>As ſhaken by the hand of Fate.</l>
+                  <l>Whoever has a ſoul like me,</l>
+                  <l>Diſturbed with an Extaſie,</l>
+                  <l>Thrown on me by Deaths forked Dart</l>
+                  <l>Shot through the <hi>White</hi> of my ſad heart,</l>
+                  <l>Wherein was ſeated He, in whom</l>
+                  <l>Now dead I ſee alive my doom.</l>
+                  <l>I le Groan no more <hi>by book,</hi> the Smart</l>
+                  <l>Of <hi>whipping</hi> Fate makes me <hi>by heart</hi>
+                  </l>
+                  <l>To learn ſuch groans as do rebound</l>
+                  <l>Upon our Breaſts with Silent Sound;</l>
+                  <l>Theſe chiefly mount to Heavens Ears</l>
+                  <l>Accompany'd with unwept Tears,</l>
+                  <l>Which a ſoul-ſeeing Eye may finde</l>
+                  <l>Congeal'd within our ſtupid Minde.</l>
+                  <l>Farewel, Bleſt Saint! a Farewel's onely true</l>
+                  <l>To them (like thee) that bid the World adieu.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>:</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
